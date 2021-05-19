@@ -1,0 +1,2 @@
+# cli
+motaword-cli tool
