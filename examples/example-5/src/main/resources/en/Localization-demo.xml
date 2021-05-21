@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="MessageBox_Hello" xml:space="preserve">
+    <value>Hi there!</value>
+  </data>
+  <data name="MessageBox_Welcome" xml:space="preserve">
+    <value>Welcome to MotaWord!</value>
+  </data>
+  <data name="MessageBox_Fine" xml:space="preserve">
+    <value>I hope you are fine today.</value>
+  </data>
+  <data name="MessageBox_Question1" xml:space="preserve">
+    <value>How are you?</value>
+  </data>
+</root>

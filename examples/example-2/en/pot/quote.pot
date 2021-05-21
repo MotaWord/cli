@@ -1,0 +1,11 @@
+#: %27quote_no%27
+msgid "Quote No:"
+msgstr ""
+
+#: %27pdf_date%27
+msgid "Date:"
+msgstr ""
+
+#: %27pdf_valid_until%27
+msgid "Valid Until:"
+msgstr ""

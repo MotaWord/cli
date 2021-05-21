@@ -1,0 +1,8 @@
+#: my comment here
+msgid ""
+"Welcome to MotaWord"
+msgstr ""
+
+msgid ""
+"World's Fastest Business Translation Platform"
+msgstr ""

@@ -1,0 +1,13 @@
+{
+  "project-id": 1,
+  "source-directory": "en",
+  "translations-directory": "{locale}",
+  "rules": {
+    "pot/json/*.pot": "{path}/{filename}.po",
+    "pot/*.pot": "{path}/{basename}",
+    "md/*.md": "{path}/{filename}.md"
+  },
+  "exclude-rules": [
+    "pot/languages*"
+  ]
+}

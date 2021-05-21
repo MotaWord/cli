@@ -1,0 +1,11 @@
+#: .error_title
+msgid "Oops! "
+msgstr ""
+
+#: .intro_agreement_error
+msgid "Please check the agreement."
+msgstr ""
+
+#: .intro_missing_billing_error
+msgid "Make sure to enter all of the billing information."
+msgstr ""

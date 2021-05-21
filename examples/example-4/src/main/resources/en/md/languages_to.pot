@@ -1,0 +1,646 @@
+#: %27af%27
+msgid "Afrikaans"
+msgstr ""
+
+#: %27ak%27
+msgid "Akan"
+msgstr ""
+
+#: %27sq%27
+msgid "Albanian"
+msgstr ""
+
+#: %27am%27
+msgid "Amharic"
+msgstr ""
+
+#: %27ar%27
+msgid "Arabic"
+msgstr ""
+
+#: %27hy-AM%27
+msgctxt "'hy-AM'"
+msgid "Armenian"
+msgstr ""
+
+#: %27hy-am%27
+msgctxt "'hy-am'"
+msgid "Armenian"
+msgstr ""
+
+#: %27hy%27
+msgctxt "'hy'"
+msgid "Armenian"
+msgstr ""
+
+#: %27az%27
+msgid "Azerbaijani"
+msgstr ""
+
+#: %27be%27
+msgid "Belarusian"
+msgstr ""
+
+#: %27bn%27
+msgid "Bengali"
+msgstr ""
+
+#: %27bs%27
+msgid "Bosnian"
+msgstr ""
+
+#: %27pt-BR%27
+msgctxt "'pt-BR'"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: %27pt-br%27
+msgctxt "'pt-br'"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: %27bg%27
+msgid "Bulgarian"
+msgstr ""
+
+#: %27my%27
+msgid "Burmese"
+msgstr ""
+
+#: %27km%27
+msgid "Cambodian"
+msgstr ""
+
+#: %27ca%27
+msgid "Catalan"
+msgstr ""
+
+#: %27zh-CN%27
+msgctxt "'zh-CN'"
+msgid "Chinese Simplified"
+msgstr ""
+
+#: %27zh-cn%27
+msgctxt "'zh-cn'"
+msgid "Chinese Simplified"
+msgstr ""
+
+#: %27zh-TW%27
+msgctxt "'zh-TW'"
+msgid "Chinese Traditional"
+msgstr ""
+
+#: %27zh-tw%27
+msgctxt "'zh-tw'"
+msgid "Chinese Traditional"
+msgstr ""
+
+#: %27zh-Taiwanese%27
+msgctxt "'zh-Taiwanese'"
+msgid "Chinese Traditional (Taiwan)"
+msgstr ""
+
+#: %27zh-taiwanese%27
+msgctxt "'zh-taiwanese'"
+msgid "Chinese Traditional (Taiwan)"
+msgstr ""
+
+#: %27zh-HK%27
+msgctxt "'zh-HK'"
+msgid "Chinese Traditional (Hong Kong)"
+msgstr ""
+
+#: %27zh-hk%27
+msgctxt "'zh-hk'"
+msgid "Chinese Traditional (Hong Kong)"
+msgstr ""
+
+#: %27zh%27
+msgid "Chinese"
+msgstr ""
+
+#: %27hr%27
+msgid "Croatian"
+msgstr ""
+
+#: %27cs%27
+msgid "Czech"
+msgstr ""
+
+#: %27da%27
+msgid "Danish"
+msgstr ""
+
+#: %27prs%27
+msgctxt "'prs'"
+msgid "Dari"
+msgstr ""
+
+#: %27fa-AF%27
+msgctxt "'fa-AF'"
+msgid "Dari"
+msgstr ""
+
+#: %27fa-af%27
+msgctxt "'fa-af'"
+msgid "Dari"
+msgstr ""
+
+#: %27nl%27
+msgid "Dutch"
+msgstr ""
+
+#: %27en%27
+msgctxt "'en'"
+msgid "English"
+msgstr ""
+
+#: %27en-GB%27
+msgctxt "'en-GB'"
+msgid "English (UK)"
+msgstr ""
+
+#: %27en-gb%27
+msgctxt "'en-gb'"
+msgid "English (UK)"
+msgstr ""
+
+#: %27en-US%27
+msgctxt "'en-US'"
+msgid "English"
+msgstr ""
+
+#: %27en-us%27
+msgctxt "'en-us'"
+msgid "English"
+msgstr ""
+
+#: %27et%27
+msgid "Estonian"
+msgstr ""
+
+#: %27ewe%27
+msgctxt "'ewe'"
+msgid "Ewe"
+msgstr ""
+
+#: %27ee%27
+msgctxt "'ee'"
+msgid "Ewe"
+msgstr ""
+
+#: %27fa%27
+msgid "Farsi"
+msgstr ""
+
+#: %27fi%27
+msgid "Finnish"
+msgstr ""
+
+#: %27vls-BE%27
+msgctxt "'vls-BE'"
+msgid "Flemish"
+msgstr ""
+
+#: %27vls-be%27
+msgctxt "'vls-be'"
+msgid "Flemish"
+msgstr ""
+
+#: %27vls%27
+msgctxt "'vls'"
+msgid "Flemish"
+msgstr ""
+
+#: %27fr%27
+msgid "French (France)"
+msgstr ""
+
+#: %27fr-CA%27
+msgctxt "'fr-CA'"
+msgid "French (Canadian)"
+msgstr ""
+
+#: %27fr-ca%27
+msgctxt "'fr-ca'"
+msgid "French (Canadian)"
+msgstr ""
+
+#: %27ka%27
+msgid "Georgian"
+msgstr ""
+
+#: %27de%27
+msgid "German"
+msgstr ""
+
+#: %27el%27
+msgid "Greek"
+msgstr ""
+
+#: %27gu-IN%27
+msgctxt "'gu-IN'"
+msgid "Gujarati"
+msgstr ""
+
+#: %27gu-in%27
+msgctxt "'gu-in'"
+msgid "Gujarati"
+msgstr ""
+
+#: %27gu%27
+msgctxt "'gu'"
+msgid "Gujarati"
+msgstr ""
+
+#: %27ht%27
+msgid "Haitian Creole"
+msgstr ""
+
+#: %27he%27
+msgid "Hebrew"
+msgstr ""
+
+#: %27hi%27
+msgid "Hindi"
+msgstr ""
+
+#: %27hu%27
+msgid "Hungarian"
+msgstr ""
+
+#: %27is%27
+msgid "Icelandic"
+msgstr ""
+
+#: %27ind%27
+msgctxt "'ind'"
+msgid "Indonesian"
+msgstr ""
+
+#: %27id%27
+msgctxt "'id'"
+msgid "Indonesian"
+msgstr ""
+
+#: %27it%27
+msgid "Italian"
+msgstr ""
+
+#: %27ja%27
+msgid "Japanese"
+msgstr ""
+
+#: %27ko%27
+msgid "Korean"
+msgstr ""
+
+#: %27ku%27
+msgid "Kurdish"
+msgstr ""
+
+#: %27la-LA%27
+msgctxt "'la-LA'"
+msgid "Latin"
+msgstr ""
+
+#: %27la-la%27
+msgctxt "'la-la'"
+msgid "Latin"
+msgstr ""
+
+#: %27la%27
+msgctxt "'la'"
+msgid "Latin"
+msgstr ""
+
+#: %27lv%27
+msgid "Latvian"
+msgstr ""
+
+#: %27lt%27
+msgid "Lithuanian"
+msgstr ""
+
+#: %27lb%27
+msgid "Luxembourgish"
+msgstr ""
+
+#: %27mk%27
+msgid "Macedonian"
+msgstr ""
+
+#: %27ms%27
+msgid "Malay"
+msgstr ""
+
+#: %27ml-IN%27
+msgctxt "'ml-IN'"
+msgid "Malayalam"
+msgstr ""
+
+#: %27ml-in%27
+msgctxt "'ml-in'"
+msgid "Malayalam"
+msgstr ""
+
+#: %27ml%27
+msgctxt "'ml'"
+msgid "Malayalam"
+msgstr ""
+
+#: %27mt%27
+msgid "Maltese"
+msgstr ""
+
+#: %27mn%27
+msgid "Mongolian"
+msgstr ""
+
+#: %27ne-NP%27
+msgctxt "'ne-NP'"
+msgid "Nepali"
+msgstr ""
+
+#: %27ne-np%27
+msgctxt "'ne-np'"
+msgid "Nepali"
+msgstr ""
+
+#: %27ne%27
+msgctxt "'ne'"
+msgid "Nepali"
+msgstr ""
+
+#: %27no%27
+msgid "Norwegian"
+msgstr ""
+
+#: %27ps%27
+msgid "Pashto"
+msgstr ""
+
+#: %27pl%27
+msgid "Polish"
+msgstr ""
+
+#: %27pt-PT%27
+msgctxt "'pt-PT'"
+msgid "Portuguese"
+msgstr ""
+
+#: %27pt-pt%27
+msgctxt "'pt-pt'"
+msgid "Portuguese"
+msgstr ""
+
+#: %27pt%27
+msgctxt "'pt'"
+msgid "Portuguese"
+msgstr ""
+
+#: %27pa-IN%27
+msgctxt "'pa-IN'"
+msgid "Punjabi (India)"
+msgstr ""
+
+#: %27pa-in%27
+msgctxt "'pa-in'"
+msgid "Punjabi (India)"
+msgstr ""
+
+#: %27pa%27
+msgctxt "'pa'"
+msgid "Punjabi (India)"
+msgstr ""
+
+#: %27ro%27
+msgid "Romanian"
+msgstr ""
+
+#: %27ru%27
+msgid "Russian"
+msgstr ""
+
+#: %27sr%27
+msgid "Serbian (Cyrillic)"
+msgstr ""
+
+#: %27sr-cs%27
+msgctxt "'sr-cs'"
+msgid "Serbian (Latin)"
+msgstr ""
+
+#: %27sr-CS%27
+msgctxt "'sr-CS'"
+msgid "Serbian (Latin)"
+msgstr ""
+
+#: %27sin%27
+msgctxt "'sin'"
+msgid "Sinhalese"
+msgstr ""
+
+#: %27si%27
+msgctxt "'si'"
+msgid "Sinhalese"
+msgstr ""
+
+#: %27sk%27
+msgid "Slovak"
+msgstr ""
+
+#: %27sl%27
+msgid "Slovenian"
+msgstr ""
+
+#: %27es-AR%27
+msgctxt "'es-AR'"
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: %27es-ar%27
+msgctxt "'es-ar'"
+msgid "Spanish (Argentina)"
+msgstr ""
+
+#: %27es-MX%27
+msgctxt "'es-MX'"
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: %27es-mx%27
+msgctxt "'es-mx'"
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: %27es-Mexican%27
+msgctxt "'es-Mexican'"
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: %27es-mexican%27
+msgctxt "'es-mexican'"
+msgid "Spanish (Mexico)"
+msgstr ""
+
+#: %27es-ES%27
+msgctxt "'es-ES'"
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: %27es-es%27
+msgctxt "'es-es'"
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: %27es%27
+msgctxt "'es'"
+msgid "Spanish (Spain)"
+msgstr ""
+
+#: %27es-US%27
+msgctxt "'es-US'"
+msgid "Spanish (United States)"
+msgstr ""
+
+#: %27es-us%27
+msgctxt "'es-us'"
+msgid "Spanish (United States)"
+msgstr ""
+
+#: %27sv-SE%27
+msgctxt "'sv-SE'"
+msgid "Swedish"
+msgstr ""
+
+#: %27sv-se%27
+msgctxt "'sv-se'"
+msgid "Swedish"
+msgstr ""
+
+#: %27sv%27
+msgctxt "'sv'"
+msgid "Swedish"
+msgstr ""
+
+#: %27tl%27
+msgid "Tagalog"
+msgstr ""
+
+#: %27ta%27
+msgid "Tamil"
+msgstr ""
+
+#: %27th%27
+msgid "Thai"
+msgstr ""
+
+#: %27tr%27
+msgid "Turkish"
+msgstr ""
+
+#: %27uk%27
+msgid "Ukrainian"
+msgstr ""
+
+#: %27ur-PK%27
+msgctxt "'ur-PK'"
+msgid "Urdu"
+msgstr ""
+
+#: %27ur-pk%27
+msgctxt "'ur-pk'"
+msgid "Urdu"
+msgstr ""
+
+#: %27ur%27
+msgctxt "'ur'"
+msgid "Urdu"
+msgstr ""
+
+#: %27uz%27
+msgid "Uzbek"
+msgstr ""
+
+#: %27vi%27
+msgid "Vietnamese"
+msgstr ""
+
+#: %27wa%27
+msgid "Walloon"
+msgstr ""
+
+#: %27wo%27
+msgid "Wolof"
+msgstr ""
+
+#: %27yi%27
+msgid "Yiddish"
+msgstr ""
+
+#: %27yo%27
+msgid "Yoruba"
+msgstr ""
+
+#: %27kmr%27
+msgid "Kurmanji (Kurdish)"
+msgstr ""
+
+#: %27eu%27
+msgid "Basque"
+msgstr ""
+
+#: %27sw%27
+msgid "Swahili"
+msgstr ""
+
+#: %27bo-BT%27
+msgctxt "'bo-BT'"
+msgid "Tibetan"
+msgstr ""
+
+#: %27bo-bt%27
+msgctxt "'bo-bt'"
+msgid "Tibetan"
+msgstr ""
+
+#: %27cy%27
+msgid "Welsh"
+msgstr ""
+
+#: %27pa-PK%27
+msgctxt "'pa-PK'"
+msgid "Punjabi (Pakistan)"
+msgstr ""
+
+#: %27pa-pk%27
+msgctxt "'pa-pk'"
+msgid "Punjabi (Pakistan)"
+msgstr ""
+
+#: %27kk%27
+msgid "Kazakh"
+msgstr ""
+
+#: %27ga-IE%27
+msgctxt "'ga-IE'"
+msgid "Irish"
+msgstr ""
+
+#: %27ga-ie%27
+msgctxt "'ga-ie'"
+msgid "Irish"
+msgstr ""
+
+#: %27chk%27
+msgid "Chuukese"
+msgstr ""
+
+#: %27cnh%27
+msgid "Hakha Chin"
+msgstr ""
+
+#: %27so%27
+msgid "Somali"
+msgstr ""

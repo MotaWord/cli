@@ -1,0 +1,12 @@
+{
+  "project-id": 1,
+  "source-directory": "resources/en",
+  "translations-directory": "resources/{locale}",
+  "rules": {
+    "*": "{path}/{basename}"
+  },
+  "exclude-rules": [
+    "md/excluded-pot/*",
+    "pot/languages*"
+  ]
+}
