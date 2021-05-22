@@ -70,6 +70,7 @@ Download here: [Releases](https://github.com/motaword/cli/releases)
 We provide an `installer.sh` bash script that you use with `curl` to install the latest version of `motaword` CLI in your working directory. You can find the `installer.sh` script in this repository.
 
 You can install `motaword` by running this:
+
 `curl -s https://raw.githubusercontent.com/motaword/cli/master/installer.sh | bash`
 
 ### Install via Homebrew
