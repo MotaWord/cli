@@ -13,9 +13,9 @@ function fail {
 function install {
 	#settings
 	USER="motaword"
-	PROG="cli"
+	PROG="motaword"
 	MOVE="false"
-	RELEASE="v1.2"
+	RELEASE="v1.3.1"
 	INSECURE="false"
 	OUT_DIR="$(pwd)"
 	GH="https://github.com"
@@ -62,23 +62,23 @@ function install {
 	FTYPE=""
 	case "${OS}_${ARCH}" in
 	"darwin_arm")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.2/motaword_1.2_Darwin_arm64.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.3.1/motaword_1.3.1_Darwin_arm64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	"darwin_amd64")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.2/motaword_1.2_Darwin_x86_64.tar.gz"
-		FTYPE=".tar.gz"
-		;;
-	"linux_arm")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.2/motaword_1.2_Linux_arm64.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.3.1/motaword_1.3.1_Darwin_x86_64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	"linux_386")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.2/motaword_1.2_Linux_i386.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.3.1/motaword_1.3.1_Linux_i386.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	"linux_amd64")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.2/motaword_1.2_Linux_x86_64.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.3.1/motaword_1.3.1_Linux_x86_64.tar.gz"
+		FTYPE=".tar.gz"
+		;;
+	"linux_arm")
+		URL="https://github.com/MotaWord/cli/releases/download/v1.3.1/motaword_1.3.1_Linux_arm64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	*) fail "No asset for platform ${OS}-${ARCH}";;
@@ -109,7 +109,7 @@ function install {
 		unzip -o -qq tmp.zip || fail "unzip failed"
 		rm tmp.zip || fail "cleanup failed"
 	elif [[ $FTYPE = "" ]]; then
-		bash -c "$GET $URL" > "cli_${OS}_${ARCH}" || fail "download failed"
+		bash -c "$GET $URL" > "motaword_${OS}_${ARCH}" || fail "download failed"
 	else
 		fail "unknown file type: $FTYPE"
 	fi
