@@ -25,6 +25,7 @@
 - [About `motaword`](#about-the-project)
 - [Getting Started](#getting-started)
    * [Download pre-built binary](#download-pre-built-binary)
+   * [Install via bash installer](#install-via-bash-installer)   
    * [Install via Homebrew](#install-via-homebrew)
 - [Usage](#usage)
    * [Command categories / parent commands](#command-categories---parent-commands)
