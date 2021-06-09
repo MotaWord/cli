@@ -15,7 +15,7 @@ function install {
 	USER="motaword"
 	PROG="motaword"
 	MOVE="false"
-	RELEASE="v1.4.0"
+	RELEASE="v1.4.1"
 	INSECURE="false"
 	OUT_DIR="$(pwd)"
 	GH="https://github.com"
@@ -61,24 +61,24 @@ function install {
 	URL=""
 	FTYPE=""
 	case "${OS}_${ARCH}" in
-	"darwin_arm")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.4.0/motaword_1.4.0_Darwin_arm64.tar.gz"
+	"linux_arm")
+		URL="https://github.com/MotaWord/cli/releases/download/v1.4.1/motaword_1.4.1_Linux_arm64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	"linux_386")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.4.0/motaword_1.4.0_Linux_i386.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.4.1/motaword_1.4.1_Linux_i386.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	"darwin_amd64")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.4.0/motaword_1.4.0_Darwin_x86_64.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.4.1/motaword_1.4.1_Darwin_x86_64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	"linux_amd64")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.4.0/motaword_1.4.0_Linux_x86_64.tar.gz"
+		URL="https://github.com/MotaWord/cli/releases/download/v1.4.1/motaword_1.4.1_Linux_x86_64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
-	"linux_arm")
-		URL="https://github.com/MotaWord/cli/releases/download/v1.4.0/motaword_1.4.0_Linux_arm64.tar.gz"
+	"darwin_arm")
+		URL="https://github.com/MotaWord/cli/releases/download/v1.4.1/motaword_1.4.1_Darwin_arm64.tar.gz"
 		FTYPE=".tar.gz"
 		;;
 	*) fail "No asset for platform ${OS}-${ARCH}";;
